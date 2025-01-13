@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class cless : MonoBehaviour
 {
-    public int coin =50;
-    private int leve1=3;
+    //public int coin =50;
+    //private int leve1=3;
     // Start is called before the first frame update
     void Start()
     {
